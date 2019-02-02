@@ -6,3 +6,6 @@ Darth Vader
 Chewbacca
 C3PO
 Jabba
+
+Rey
+Finn
