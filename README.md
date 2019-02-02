@@ -1,5 +1,5 @@
 # Star Wars Repo
 
-![./xWing.png](X-Wing)
+![X-Wing](xWing.png)
 
 Este repositório serve para o curso de Git e GitHub
