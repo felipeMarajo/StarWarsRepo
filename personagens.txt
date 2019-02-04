@@ -19,3 +19,4 @@ modificações da branch 2
 modificação na master
 Mais uma modificação na branch2
 dia 04/02
+dia 04/02 (newBranch)
